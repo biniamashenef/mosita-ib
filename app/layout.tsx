@@ -15,7 +15,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: 'Mosita IB | Premium Internet Banking',
-  description: 'Experience premium internet banking with Mosita IB. Manage your wealth, investments, and transactions with elegance.',
+  description: 'Experience premium internet banking with Mosita Internet Banking. Manage your wealth, investments, and transactions with elegance.',
   generator: 'v0.app',
 }
 
